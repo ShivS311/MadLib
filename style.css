@@ -1,0 +1,35 @@
+button#Mad-Lib{
+  font-size: 18px;
+  color:black;
+  background-color: aqua;
+  border-radius: 25px;
+}
+
+body {
+  background-image: url(airplane.jpg);
+}
+
+div.main {
+  background-color: rgb(255, 255, 255);
+  border-radius: 25px;
+  margin: auto;
+  padding: 30px 100px;
+  width:max-content;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  opacity: 0.7;
+
+}
+
+h1 {
+  color: blue;
+}
+
+h2 {
+  color: blue;
+}
+
+#result {
+  font-style: italic;
+  border: yellow;
+  border-style: groove;
+}
